@@ -1,0 +1,5 @@
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Login
+[32mINFO    [0m BasePage:BasePage.py:79 Send text on Element with locatorType index and with locatorString 3
+[32mINFO    [0m BasePage:BasePage.py:79 Send text on Element with locatorType index and with locatorString 4
+[32mINFO    [0m BasePage:BasePage.py:65 Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Btn3
+[32mINFO    [0m BasePage:BasePage.py:51 Element found with locatorType text and with locatorString Enter Admin

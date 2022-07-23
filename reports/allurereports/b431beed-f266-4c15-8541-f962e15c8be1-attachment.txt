@@ -1,0 +1,2 @@
+[32mINFO    [0m BasePage:BasePage.py:78 Send text on Element with LocatorType: id and with LocatorString: com.code2lead.kwad:id/Edt_admin
+[32mINFO    [0m BasePage:BasePage.py:64 Clicked on Element with LocatorType: text and with LocatorString: SUBMIT

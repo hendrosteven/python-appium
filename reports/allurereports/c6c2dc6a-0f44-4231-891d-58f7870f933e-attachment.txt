@@ -1,0 +1,6 @@
+[32mINFO    [0m BasePage:BasePage.py:82 Unable to send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et2
+[32mINFO    [0m BasePage:BasePage.py:82 Unable to send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et3
+[32mINFO    [0m BasePage:BasePage.py:82 Unable to send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et6
+[32mINFO    [0m BasePage:BasePage.py:82 Unable to send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et7
+[32mINFO    [0m BasePage:BasePage.py:68 Unable to click on Element with locatorType id and with locatorString com.code2lead.kwad:id/Btn2
+[32mINFO    [0m BasePage:BasePage.py:54 Element not found with locatorType id and with locatorString com.code2lead.kwad:id/Tv2

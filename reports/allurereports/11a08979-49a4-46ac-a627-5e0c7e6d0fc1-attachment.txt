@@ -1,0 +1,6 @@
+[32mINFO    [0m BasePage:BasePage.py:77 Send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et2
+[32mINFO    [0m BasePage:BasePage.py:77 Send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et3
+[32mINFO    [0m BasePage:BasePage.py:77 Send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et6
+[32mINFO    [0m BasePage:BasePage.py:77 Send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et7
+[32mINFO    [0m BasePage:BasePage.py:63 Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Btn2
+[32mINFO    [0m BasePage:BasePage.py:49 Element found with locatorType id and with locatorString com.code2lead.kwad:id/Tv2
