@@ -196,3 +196,22 @@
 22-07-24 05:30:54 AM Sunday: INFO: Send text on Element with locatorType index and with locatorString 4
 22-07-24 05:30:54 AM Sunday: INFO: Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Btn3
 22-07-24 05:30:55 AM Sunday: INFO: Element found with locatorType text and with locatorString Enter Admin
+22-07-24 09:24:20 AM Sunday: INFO: Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Login
+22-07-24 09:24:21 AM Sunday: INFO: Element found with locatorType text and with locatorString Login Page
+22-07-24 09:24:22 AM Sunday: INFO: Send text on Element with locatorType index and with locatorString 3
+22-07-24 09:24:23 AM Sunday: INFO: Send text on Element with locatorType index and with locatorString 4
+22-07-24 09:24:24 AM Sunday: INFO: Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Btn3
+22-07-24 09:24:24 AM Sunday: INFO: Element found with locatorType text and with locatorString Wrong Credentials
+22-07-24 09:24:26 AM Sunday: INFO: Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Login
+22-07-24 09:24:28 AM Sunday: INFO: Send text on Element with locatorType index and with locatorString 3
+22-07-24 09:24:29 AM Sunday: INFO: Send text on Element with locatorType index and with locatorString 4
+22-07-24 09:24:30 AM Sunday: INFO: Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Btn3
+22-07-24 09:24:31 AM Sunday: INFO: Element found with locatorType text and with locatorString Enter Admin
+22-07-24 09:24:45 AM Sunday: INFO: Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/ContactUs
+22-07-24 09:24:46 AM Sunday: INFO: Element found with locatorType text and with locatorString Contact Us form
+22-07-24 09:24:47 AM Sunday: INFO: Send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et2
+22-07-24 09:24:48 AM Sunday: INFO: Send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et3
+22-07-24 09:24:49 AM Sunday: INFO: Send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et6
+22-07-24 09:24:50 AM Sunday: INFO: Send text on Element with locatorType id and with locatorString com.code2lead.kwad:id/Et7
+22-07-24 09:24:51 AM Sunday: INFO: Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/Btn2
+22-07-24 09:24:51 AM Sunday: INFO: Element found with locatorType id and with locatorString com.code2lead.kwad:id/Tv2

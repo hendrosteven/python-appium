@@ -1,1 +1,0 @@
-[32mINFO    [0m BasePage:BasePage.py:80 Unable to send text on Element with LocatorType: text and with LocatorString: Enter Name

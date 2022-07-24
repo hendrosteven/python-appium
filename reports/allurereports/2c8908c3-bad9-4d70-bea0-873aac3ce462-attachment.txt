@@ -1,2 +1,0 @@
-[32mINFO    [0m BasePage:BasePage.py:68 Unable to click on Element with locatorType id and with locatorString com.code2lead.kwad:id/Login
-[32mINFO    [0m BasePage:BasePage.py:54 Element not found with locatorType text and with locatorString Login Page

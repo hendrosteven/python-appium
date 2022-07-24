@@ -1,3 +1,0 @@
-[32mINFO    [0m BasePage:BasePage.py:63 Clicked on Element with locatorType id and with locatorString com.code2lead.kwad:id/ContactUs
-[32mINFO    [0m BasePage:BasePage.py:49 Element found with locatorType text and with locatorString Contact Us form
-[32mINFO    [0m ContactFormTest:ContactFormTest.py:33 Open Contact Form Failed

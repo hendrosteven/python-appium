@@ -12,7 +12,7 @@ class ContactFormTest(unittest.TestCase):
     def classObjects(self):
         self.contactForm = ContactFormPage(self.driver)
 
-    @pytest.mark.run(order=2)
+    @pytest.mark.run(order=5)
     def test_enterDataInForm(self):
         name = "Hendro"
         self.contactForm.enterName(name)
@@ -24,7 +24,7 @@ class ContactFormTest(unittest.TestCase):
         actualResult = self.contactForm.getSubmitResult()
         assert actualResult == expectedResult, self.contactForm.takeScreenShot(self.contactForm.driver.current_activity)
 
-    @pytest.mark.run(order=1)
+    @pytest.mark.run(order=4)
     def test_openContactForm(self):
         cl.allureLogs("App launched")
         self.contactForm.clickContactFormButton()

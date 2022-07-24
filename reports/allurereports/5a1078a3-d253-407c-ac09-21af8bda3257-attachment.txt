@@ -1,5 +1,0 @@
-[32mINFO    [0m BasePage:BasePage.py:68 Unable to click on Element with locatorType id and with locatorString com.code2lead.kwad:id/Login
-[32mINFO    [0m BasePage:BasePage.py:82 Unable to send text on Element with locatorType index and with locatorString 3
-[32mINFO    [0m BasePage:BasePage.py:82 Unable to send text on Element with locatorType index and with locatorString 4
-[32mINFO    [0m BasePage:BasePage.py:68 Unable to click on Element with locatorType id and with locatorString com.code2lead.kwad:id/Btn3
-[32mINFO    [0m BasePage:BasePage.py:54 Element not found with locatorType text and with locatorString Enter Admin
